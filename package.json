@@ -1,0 +1,17 @@
+{
+  "name": "octogram",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "repository": "https://github.com/xencodes/octogram",
+  "author": "xencodes <xencodes@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
