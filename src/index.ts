@@ -1,1 +1,1 @@
-console.log('hello, octogram!')
+export * from './octogram'
